@@ -1,5 +1,5 @@
-Smart Throttle Control for EVs
-
+**Smart Throttle Control for EVs
+**
 
 Project Summary
 
